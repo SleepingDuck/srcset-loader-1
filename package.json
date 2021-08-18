@@ -1,6 +1,6 @@
 {
   "name": "srcset-loader",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "description": "Loader which automatically resizes your images in the desired dimensions, and generates light placeholders.",
   "main": "index.js",
   "scripts": {
@@ -34,7 +34,7 @@
     "get-pixels": "3.3.0",
     "image-size": "0.5.1",
     "loader-utils": "1.1.0",
-    "sharp": "^0.22.0"
+    "sharp": "^0.29.0"
   },
   "devDependencies": {
     "babel-cli": "^6.24.0",
